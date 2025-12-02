@@ -12,3 +12,6 @@ Read here: https://infodepots.github.io/how-to-convert-subscribers-into-repeat-b
 ## How to Build a B2B Contacts List for an ABM Campaign
 **Read here:** https://www.infodepots.com/blog/how-to-use-b2b-email-lists-for-account-based-marketing/
 --
+## How B2C Email Lists Build Consumer Loyalty
+**Read here:** https://www.infodepots.com/blog/how-to-use-b2c-email-lists-to-build-brand-loyalty/
+--
