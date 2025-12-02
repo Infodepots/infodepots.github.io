@@ -5,3 +5,6 @@ Read here: https://infodepots.github.io/how-to-convert-subscribers-into-repeat-b
 --
 ## How Accurate Data Drives Email Marketing ROI in B2B
 **Read here:** https://www.infodepots.com/blog/how-accurate-data-improves-b2b-email-marketing-roi/
+--
+## How to Target High-Value Customers Using B2C Mailing Lists
+**Read here:** https://www.infodepots.com/blog/how-accurate-data-improves-b2b-email-marketing-roi/
