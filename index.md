@@ -7,4 +7,8 @@ Read here: https://infodepots.github.io/how-to-convert-subscribers-into-repeat-b
 **Read here:** https://www.infodepots.com/blog/how-accurate-data-improves-b2b-email-marketing-roi/
 --
 ## How to Target High-Value Customers Using B2C Mailing Lists
-**Read here:** https://www.infodepots.com/blog/how-accurate-data-improves-b2b-email-marketing-roi/
+**Read here:** https://www.infodepots.com/blog/how-to-target-high-value-customers-using-b2c-email-lists/
+--
+## How to Build a B2B Contacts List for an ABM Campaign
+**Read here:** https://www.infodepots.com/blog/how-to-use-b2b-email-lists-for-account-based-marketing/
+--
